@@ -4,16 +4,16 @@ font-weight:900;
     color: blue;
 }
 .line1{
-    background-color: rgb(254, 254, 254);
+    background-color: rgb(255, 197, 197);
     color:red;
 }
 
 .line2{
-    background-color: rgb(254, 254, 254);
+    background-color: rgb(196, 246, 255);
     color:blue;
 }
 
 .line3{
-    background-color: rgb(254, 254, 254);
+    background-color: rgb(247, 187, 187);
     color:maroon;
 }
