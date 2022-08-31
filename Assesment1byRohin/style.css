@@ -1,3 +1,17 @@
 .heading{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight:900;
     color: blue;
+}
+.line1{
+    color:red;
+}
+
+.line2{
+    background-color: blueviolet;
+    color:blue;
+}
+
+.line3{
+    color:maroon;
 }
