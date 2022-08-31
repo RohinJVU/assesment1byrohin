@@ -1,0 +1,5 @@
+/Users/rohinjassani/Desktop/assesment1byrohin/Assesment1byRohin/Assesment1byRohin/obj/Release/net6.0/Assesment1byRohin.csproj.AssemblyReference.cache
+/Users/rohinjassani/Desktop/assesment1byrohin/Assesment1byRohin/Assesment1byRohin/obj/Release/net6.0/Assesment1byRohin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohinjassani/Desktop/assesment1byrohin/Assesment1byRohin/Assesment1byRohin/obj/Release/net6.0/Assesment1byRohin.AssemblyInfoInputs.cache
+/Users/rohinjassani/Desktop/assesment1byrohin/Assesment1byRohin/Assesment1byRohin/obj/Release/net6.0/Assesment1byRohin.AssemblyInfo.cs
+/Users/rohinjassani/Desktop/assesment1byrohin/Assesment1byRohin/Assesment1byRohin/obj/Release/net6.0/Assesment1byRohin.csproj.CoreCompileInputs.cache
